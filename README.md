@@ -21,10 +21,7 @@ To run any of the project tools locally, clone this repository and navigate into
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Prodigy_CS_Projects.git
-
-# Navigate into repository
-cd Prodigy_CS_Projects
+git clone https://github.com/kaustubhbangar5-dotcom/Prodigy_CS_Projects.git
 
 # Navigate into Task 01
 cd Prodigy_CS_01
