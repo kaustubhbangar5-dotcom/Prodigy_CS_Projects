@@ -208,7 +208,7 @@ A wrapper function `get_integer_input()` handles exception catching using `try..
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PRODIGY_CS_01.git
+   git clone https://github.com/kaustubhbangar5-dotcom/Prodigy_CS_Projects.git
    ```
 
 2. **Navigate into the Project Folder**:
@@ -254,5 +254,5 @@ The Caesar Cipher project successfully satisfies all requirements for **Task 01*
 - **Track**: Cyber Security (CS)
 - **Organization**: Prodigy InfoTech
 - **Task**: Task 01 - Implement Caesar Cipher (PRODIGY_CS_01)
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **LinkedIn**: [https://www.linkedin.com/in/kaustubh-bangar-546259351]
+- **GitHub**: [https://github.com/kaustubhbangar5-dotcom]
