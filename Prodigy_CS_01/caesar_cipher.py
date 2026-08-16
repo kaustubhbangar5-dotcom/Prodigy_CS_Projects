@@ -1,14 +1,6 @@
-"""
-PRODIGY_CS_01: Caesar Cipher Implementation
-Author: Kaustubh Bangar
-Track: Cyber Security (CS) - Task 01
-Description: A Python program to encrypt and decrypt text using the Caesar Cipher algorithm.
-"""
-
 def caesar_cipher(text: str, shift: int) -> str:
     """
-    Encrypts or decrypts text using the Caesar Cipher algorithm.
-    
+    Encrypts or decrypts text using the Caesar Cipher algorithm.    
     :param text: The input string (plaintext or ciphertext).
     :param shift: The key shift value (positive for encrypting, negative for decrypting).
     :return: Transformed string preserving original casing and non-alphabetic characters.
@@ -31,7 +23,6 @@ def caesar_cipher(text: str, shift: int) -> str:
             result += char
 
     return result
-
 
 def get_integer_input(prompt: str) -> int:
     """Safely prompts the user for an integer input with error validation."""
