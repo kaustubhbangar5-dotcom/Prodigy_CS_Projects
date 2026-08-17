@@ -21,7 +21,6 @@ def caesar_cipher(text: str, shift: int) -> str:
         else:
             # Leave numbers, spaces, punctuation, and special characters unchanged
             result += char
-
     return result
 
 def get_integer_input(prompt: str) -> int:
@@ -31,7 +30,6 @@ def get_integer_input(prompt: str) -> int:
             return int(input(prompt))
         except ValueError:
             print("\n[!] Invalid input! Please enter a valid integer for the shift key.\n")
-
 
 def main():
     """Main interactive execution loop for the Caesar Cipher application."""
@@ -76,10 +74,8 @@ def main():
         elif choice == "3":
             print("\nThank you for using the Caesar Cipher Tool! Exiting program...\n")
             break
-
         else:
             print("\n[!] Invalid selection. Please enter 1, 2, or 3.")
-
 
 if __name__ == "__main__":
     main()
