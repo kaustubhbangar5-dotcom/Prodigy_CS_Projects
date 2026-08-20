@@ -12,6 +12,7 @@ Welcome to my repository for the **Prodigy InfoTech Cyber Security Internship**!
 | Task ID | Project Title | Tech Stack | Status | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Prodigy_CS_01](./Prodigy_CS_01)** | [Caesar Cipher Tool](./Prodigy_CS_01) | `Python 3` | `Completed` | Interactive command-line application to encrypt and decrypt text using the Caesar Cipher. |
+| **[Prodigy_CS_02](./Prodigy_CS_02)** | [Pixel Manipulation Image Encryptor](./Prodigy_CS_02) | `Python 3`, `Pillow`, `NumPy` | `Completed` | Image encryption and decryption application using bitwise XOR, intensity shift, channel swapping, and pixel coordinate shuffling. |
 
 ---
 
@@ -23,11 +24,14 @@ To run any of the project tools locally, clone this repository and navigate into
 # Clone the repository
 git clone https://github.com/kaustubhbangar5-dotcom/Prodigy_CS_Projects.git
 
-# Navigate into Task 01
+# --- Task 01: Caesar Cipher ---
 cd Prodigy_CS_01
-
-# Run Task 01
 python caesar_cipher.py
+
+# --- Task 02: Image Encryptor ---
+cd ../Prodigy_CS_02
+pip install -r requirements.txt
+python image_encryptor.py
 ```
 
 ---
