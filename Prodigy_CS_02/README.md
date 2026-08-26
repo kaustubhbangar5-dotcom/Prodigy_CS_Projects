@@ -267,5 +267,5 @@ The **Prodigy_CS_02** project fulfills all requirements for Task 02 of the Cyber
 - **Track**: Cyber Security (CS)
 - **Organization**: Prodigy InfoTech
 - **Task**: Task 02 - Pixel Manipulation for Image Encryption (`PRODIGY_CS_02`)
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **LinkedIn**: [https://www.linkedin.com/in/kaustubh-bangar-546259351/]
+- **GitHub**: [https://github.com/kaustubhbangar5-dotcom ]
