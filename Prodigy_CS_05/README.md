@@ -226,5 +226,5 @@ Task 05 successfully delivers a comprehensive Network Packet Analyzer. It provid
 - **Track**: Cyber Security (CS)
 - **Organization**: Prodigy InfoTech
 - **Task**: Task 05 - Network Packet Analyzer (`PRODIGY_CS_05`)
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **LinkedIn**: [https://www.linkedin.com/in/kaustubh-bangar-546259351/]
+- **GitHub**: [https://github.com/kaustubhbangar5-dotcom ]
