@@ -1,0 +1,4 @@
+# PRODIGY_CS_05 Dependencies
+# Core packet decoding and GUI uses Python Standard Library (socket, struct, tkinter, argparse).
+# Optional: scapy for advanced packet crafting
+# scapy>=2.5.0
