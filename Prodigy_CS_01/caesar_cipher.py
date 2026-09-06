@@ -33,10 +33,10 @@ def get_integer_input(prompt: str) -> int:
 
 def main():
     """Main interactive execution loop for the Caesar Cipher application."""
-    print("=" * 55)
+    print("=" * 50)
     print("        PRODIGY INFOTECH - CYBER SECURITY TASK 01")
     print("                 CAESAR CIPHER TOOL")
-    print("=" * 55)
+    print("=" * 50)
 
     while True:
         print("\nSelect an Operation:")
