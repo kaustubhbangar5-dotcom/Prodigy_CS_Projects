@@ -240,3 +240,5 @@ OK
 - **Track**: Cyber Security (CS)
 - **Organization**: Prodigy InfoTech
 - **Task**: Task 03 - Password Complexity Checker (`PRODIGY_CS_03`)
+- **LinkedIn**: [https://www.linkedin.com/in/kaustubh-bangar-546259351/]
+- **GitHub**: [https://github.com/kaustubhbangar5-dotcom ]
